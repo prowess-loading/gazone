@@ -17,4 +17,4 @@ driver.find_element(
 
 sleep(3)
 
-print("test update")
+print("test update 2")
