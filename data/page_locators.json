@@ -1,0 +1,18 @@
+{
+    "mainButtons": {
+    "classic": ".d-flex .cusBtnOption:nth-of-type(1)",
+    "sport": ".d-flex .cusBtnOption:nth-of-type(2)"
+},
+    "games": {
+        "Escape from aztec": "a[href*='serve-expert-goalkeeper']",
+        "Expert Goalkeeper": "a[href*='serve-expert-goalkeeper']",
+        "Clash Of Vikings": "a[href*='serve-clash-of-vikings']",
+        "Stupid Zombies": "a[href*='serve-stupid-zombies']",
+        "Candy Jam": "a[href*='serve-candy-jam']",
+        "Ultimate Baseball": "a[href*='serve-ultimate-baseball']",
+        "Paper Flick": "a[href*='serve-paper-flick']",
+        "Cam & Leon Donut Hop": "a[href*='serve-cam-and-leon-donut-hop']",
+        "Defend the beach": "a[href*='serve-defend-the-beach']",
+        "Casual Checkers": "a[href*='serve-casual-checkers']"
+    }
+}
