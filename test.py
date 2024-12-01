@@ -16,3 +16,5 @@ driver.find_element(
     By.CSS_SELECTOR, ".d-flex .cusBtnOption:nth-of-type(1)").click()
 
 sleep(3)
+
+print("test update")
